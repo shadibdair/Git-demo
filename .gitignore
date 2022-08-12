@@ -2,3 +2,6 @@
 *.log
 bin/
 target/
+
+/logs/*.log
+/secret
