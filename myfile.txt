@@ -1,1 +1,2 @@
 I love git so much
+Git is my favorite tool in Linux
